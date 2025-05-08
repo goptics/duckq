@@ -3,7 +3,7 @@
 [![Go Reference](https://img.shields.io/badge/go-pkg-00ADD8.svg?logo=go)](https://pkg.go.dev/github.com/goptics/duckq)
 [![Go Report Card](https://goreportcard.com/badge/github.com/goptics/duckq)](https://goreportcard.com/report/github.com/goptics/duckq)
 [![Go Version](https://img.shields.io/badge/Go-1.24+-00ADD8?style=flat-square&logo=go)](https://golang.org/doc/devel/release.html)
-[![CI](https://github.com/goptics/duckq/actions/workflows/duckq.yml/badge.svg)](https://github.com/goptics/duckq/actions/workflows/go.yml)
+[![CI](https://github.com/goptics/duckq/actions/workflows/duckq.yml/badge.svg)](https://github.com/goptics/duckq/actions/workflows/duckq.yml)
 [![codecov](https://codecov.io/gh/goptics/duckq/branch/main/graph/badge.svg)](https://codecov.io/gh/goptics/duckq)
 
 DuckQ is a persistent queue implementation in Go using DuckDB as the storage backend. It provides efficient enqueue and dequeue operations and maintains persistence across application restarts.
